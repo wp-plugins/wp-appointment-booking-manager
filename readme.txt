@@ -5,6 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=upscalet
 Tags: booking, appointment, appointment scheduling, appointment scheduling booking, event booking, appointment booking, doctors schedule, admin, administration, AJAX, appointment, availability, availability calendar, lawer appointment scheduling booking, Book, Booking calendar, booking form, booking system, booking engine, booking module, booking plugin, calendar, contact form, Physiotherapists appointment scheduling,  service booking,online booking calendar, online reservation, Reservation, reservation calendar, reservations, reservation plugin, service scheduling, schedule, scheduling, date blocker, jquery, management, meeting, Meeting scheduling, Organizer, rent, Rental, reservation system, schedule calendar, schedule system, service, to book, tutors appointment booking, instructors schedule booking, singer appointment scheduling, php appointment booking system, php mysql appointment schedule booking, wordpress online appointment schedule booking, wordpress appointment schedule reservation, Wordpress appointment schedule booking, wordpress appointment schedule booking script, singer appointment,artist appointment,photographer appointment scheduling booking, wp appointment schedule manager, wp  appointment schedule reservation system, wp reservation script
 
 Requires at least: 3.3.0
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
